@@ -1,2 +1,2 @@
-# pynorte2025-dados
+# pynorte-dados
 Repositório contendo os dados das Edições da Python Norte
